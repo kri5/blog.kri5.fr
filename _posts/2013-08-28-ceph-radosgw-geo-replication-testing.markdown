@@ -3,11 +3,11 @@ layout: post
 status: publish
 published: true
 title: Ceph radosgw geo-replication testing
+comments: true
 tags:
 - Development
 - Ceph
 - FOSS
-comments: []
 ---
 Ceph is developing a new feature, which is asynchronous geo-replication for disaster recovery purpose (or other use case if you find some).
 

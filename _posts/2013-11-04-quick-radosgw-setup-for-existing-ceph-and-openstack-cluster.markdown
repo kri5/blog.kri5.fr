@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: Quick Radosgw setup for existing Ceph and OpenStack cluster.
+comments: true
 tags:
 - Ceph
 - FOSS
 - OpenStack
 - Howto
-comments: []
 ---
 A lot of people are now interested in cloud computing.
 

@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Ceph starting guide
+comments: true
 tags:
 - Ceph
 - Dev
