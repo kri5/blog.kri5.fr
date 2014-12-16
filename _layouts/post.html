@@ -16,6 +16,9 @@ layout: default
 	   <div id="disqus_thread"></div>
 	   <script type="text/javascript">
 	   var disqus_shortname = 'kri5-blog';
+           {% assign filename = page.path | split: '/' %}
+           {% assign uid = filename.last | split: '.' %}
+	   var disqus_identifier = '{{ uid.first }}';
 
 	   (function() {
 	    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
