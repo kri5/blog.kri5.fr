@@ -12,7 +12,6 @@ url: http://kri5.github.io/
 # Harmony theme configuration. Please change accordingly.
 harmony:
   name: Kri5's Blog
-  show_disclaimer: false
   # Little description about your site
   description: Yet another dev's Blog talking about stuff.
   # 'meta_description:' Write an awesome description for your new site here.
@@ -37,7 +36,7 @@ harmony:
     dribble: 
     pinterest: 
   # Toggle disclaimer in footer
-  show_disclaimer: true
+  show_disclaimer: false
 
 # Conversion / Build settings 
 markdown:    kramdown
