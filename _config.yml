@@ -21,9 +21,9 @@ harmony:
   meta_description: > # 
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    name: Christophe Courtaut
+    email: christophe.courtaut@gmail.com
+    url: http://kri5.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
