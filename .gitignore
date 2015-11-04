@@ -5,4 +5,3 @@ _site/
 .sass-cache/
 *~
 bourbon/
-Gemfile.lock
